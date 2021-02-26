@@ -5,4 +5,5 @@
 *.toc
 *.bib.bak
 *.bib.sav
-*.tex
+enthalpy.tex
+.DS_Store
